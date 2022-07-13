@@ -18,6 +18,7 @@ main{
     align-items: center;
     height: 100vh;
     width: 100%;
+    padding-inline: 2rem;
     background-color: hsl(216, 12%, 8%);
 }
 
@@ -135,4 +136,6 @@ button:hover{
 .text-center{
     text-align: center;
 }
+
+
 
