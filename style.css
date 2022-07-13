@@ -46,6 +46,7 @@ main{
 
 .text{
     color: hsl(217, 12%, 63%);
+    line-height: 22px;
 }
 
 .ratingDiv{
