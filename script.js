@@ -9,7 +9,7 @@ const resetAll = () => {
 allRating.forEach((current,index) => {
     current.addEventListener('click', () => {
         resetAll()
-        selected = index
+        selected = index + 1
         current.classList = "selected"
     })
 })
